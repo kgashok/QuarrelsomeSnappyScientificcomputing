@@ -28,9 +28,10 @@ for line in lines[1:280]:
       db[category].append(tech)
 
 print(len(db))
-from pprint import pprint
+import pprint
 
 output_s = pprint.pformat(db)
 
 with open('output.txt', 'wt') as out:
-    pprint(output_s, stream=out)
+    #pprint.pprint(db, stream=out)
+    pprint.pprint(output_s, stream=out)
