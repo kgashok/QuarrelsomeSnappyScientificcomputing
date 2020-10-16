@@ -35,3 +35,14 @@ output_s = pprint.pformat(db)
 with open('output.txt', 'wt') as out:
     pprint.pprint(db, stream=out)
     #pprint.pprint(output_s, stream=out)
+
+import csv
+
+with open('hcat.csv', 'w', newline='') as csvfile:
+    fieldnames = ['category', 'technologies']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    for entry in db: 
+      writer.writerow({'category': entry, 'technologies': db[entry]})
+
