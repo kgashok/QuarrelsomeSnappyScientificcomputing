@@ -30,7 +30,7 @@ for line in lines[1:280]:
 print(len(db))
 from pprint import pprint
 
-pprint(db)
+output_s = pprint.pformat(db)
 
 with open('output.txt', 'wt') as out:
-    pprint(db, stream=out)
+    pprint(output_s, stream=out)
