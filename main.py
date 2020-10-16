@@ -44,5 +44,5 @@ with open('hcat.csv', 'w', newline='') as csvfile:
 
     writer.writeheader()
     for entry in db: 
-      writer.writerow({'category': entry, 'technologies': ",".join(db[entry])})
+      writer.writerow({'category': entry, 'technologies': ", ".join(db[entry])})
 
