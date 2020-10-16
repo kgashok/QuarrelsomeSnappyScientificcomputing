@@ -27,7 +27,7 @@ for line in lines[1:280]:
     if len(tech): 
       db[category].append(tech)
 
-print(len(db))
+print("categories found", len(db))
 import pprint
 
 output_s = pprint.pformat(db)
