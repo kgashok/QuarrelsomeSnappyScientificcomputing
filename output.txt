@@ -1,276 +1,276 @@
-("{'Analytics': ['Audio Mining/Speech Analytics',\n"
- "               'Info Extraction/Text Mining',\n"
- "               'Social Network Analysis',\n"
- "               'Prediction Markets',\n"
- "               'Content Analytics',\n"
- "               'Predictive Analytics',\n"
- "               'Social Analytics',\n"
- "               'Big Data',\n"
- "               'Video Analytics for Customer Serv.',\n"
- "               'In-Memory Analytics',\n"
- "               'Prescriptive Analytics',\n"
- "               'Personal Analytics',\n"
- "               'Data Science',\n"
- "               'Advanced Self-Service Analytics',\n"
- "               'Data Broker PaaS',\n"
- "               'Graph Analytics',\n"
- "               'Edge Analytics'],\n"
- " 'Artificial Intelligence': ['Knowledge-based Systems',\n"
- "                             'Networked Collective Intelligence',\n"
- "                             'Image/Content Recognition',\n"
- "                             'Machine Learning',\n"
- "                             'Cognitive Expert Advisors',\n"
- "                             'General AI',\n"
- "                             'Cognitive Computing',\n"
- "                             'Deep Neural Nets (Deep Learning)',\n"
- "                             'Artificial General Intelligence',\n"
- "                             'Deep Neural Network ASICs',\n"
- "                             'AI Paas',\n"
- "                             'Edge AI',\n"
- "                             'Explainable AI',\n"
- "                             'Emotion AI',\n"
- "                             'Transfer Learning',\n"
- "                             'Adaptive Machine Learning',\n"
- "                             'Generative Adversarial Networks'],\n"
- " 'Communications': ['Video Conferencing',\n"
- "                    'Desktop Videoconferencing',\n"
- "                    'Desktop Computer-Telephony Integration',\n"
- "                    'Voice over IP',\n"
- "                    'Enterprise Chat',\n"
- "                    'MMS (multimedia text)',\n"
- "                    'Instant Messaging',\n"
- "                    'Corporate Blogging',\n"
- "                    'P2P VoIP',\n"
- "                    'Podcasting',\n"
- "                    'Video Telepresence',\n"
- "                    'Microblogging',\n"
- "                    'Consumer Generated Media'],\n"
- " 'Computer Architecture': ['Grid Computing/Public MPP Clusters',\n"
- "                           'Ubiquitous Computing',\n"
- "                           'Quantum Computing',\n"
- "                           'Nanocomputing/Molecular Transistors',\n"
- "                           'Holographic storage',\n"
- "                           'Internal MPP Grids',\n"
- "                           'DNA Logic',\n"
- "                           'Tera-architectures',\n"
- "                           'Solid State Drives',\n"
- "                           'Cloud Computing',\n"
- "                           'Surface Computers',\n"
- "                           'Private Cloud Computing',\n"
- "                           'Machine-Machine Comm. Serv.',\n"
- "                           'Hybrid Cloud Computing',\n"
- "                           'Micro Data Centers',\n"
- "                           'Neuromorphic Hardware',\n"
- "                           'Edge Computing',\n"
- "                           'Self Healing System Technology',\n"
- "                           'Next-Generation Memory'],\n"
- " 'Cyber Security': ['Smartcards',\n"
- "                    'Biometric Authentication',\n"
- "                    'Digital Signatures/PKI',\n"
- "                    'Identity Services (Public)',\n"
- "                    'Trusted Computing Platforms',\n"
- "                    'Truth Verification',\n"
- "                    'Biometric Identity Docs',\n"
- "                    'Digital Security',\n"
- "                    'Software Defined Security',\n"
- "                    'Blockchain',\n"
- "                    'Blockchain for Data Security'],\n"
- " 'Display Technology': ['Electronic Ink/Digital Paper',\n"
- "                        'Head-Mounted Displays',\n"
- "                        'OLED/Light Emitting Polymers',\n"
- "                        '3D Flat Panel Displays',\n"
- "                        'Volumetric & Holographic Displays'],\n"
- " 'Energy Technology': ['Micro Fuel Cells',\n"
- "                       'Green IT',\n"
- "                       'Wireless Power',\n"
- "                       'Silicon Anode Batteries'],\n"
- " 'Financial Technology': ['Micro/E-Payments',\n"
- "                          'B2C E-Commerce',\n"
- "                          'B2B E-Markets',\n"
- "                          'XBRL',\n"
- "                          'Mobile App Stores',\n"
- "                          'Application Stores',\n"
- "                          'Cryptocurrencies',\n"
- "                          'Cryptocurrency Exchanges'],\n"
- " 'Human-Computer Interface': ['Speech Recognition (Cloud)',\n"
- "                              'Handwriting Recognition',\n"
- "                              'Virtual Reality',\n"
- "                              'Intelligent Agents',\n"
- "                              'VRML/Avatars',\n"
- "                              'Wearable Computers',\n"
- "                              'Synthetic Characters/Chatbots',\n"
- "                              'Voice Portals',\n"
- "                              'Text-to-Speech/Speech Synthesis',\n"
- "                              'Speech Recognition (Desktop)',\n"
- "                              'NLP Query/Interfaces',\n"
- "                              'Speech Recognition (Mobile)',\n"
- "                              'Augmented Reality',\n"
- "                              'Computer/Brain Interfaces',\n"
- "                              'Speech-to-Speech Translation',\n"
- "                              'Gesture Recognition/Control',\n"
- "                              'Portable Personality',\n"
- "                              'Ambient/Glanceable Displays',\n"
- "                              'Virtual Assistants',\n"
- "                              'Video Search',\n"
- "                              'Human Augmentation',\n"
- "                              'Tangible User Interfaces',\n"
- "                              'Wearable UI',\n"
- "                              'Affective Computing',\n"
- "                              'Electrovibration',\n"
- "                              'Smart Advisors',\n"
- "                              'People-Literate Technology',\n"
- "                              'Smart Data Discovery',\n"
- "                              'Conversational User Interfaces',\n"
- "                              'Mixed Reality',\n"
- "                              'Conversational AI Platform',\n"
- "                              'Knowledge Graphs',\n"
- "                              'Personification',\n"
- "                              'Immersive Workspaces'],\n"
- " 'Information Technology': ['Database Mining',\n"
- "                            'Enterprise Portals',\n"
- "                            'Text Mining',\n"
- "                            'Hosted Virtual Desktops',\n"
- "                            'ASP/SaaS',\n"
- "                            'WAP/Wireless Web',\n"
- "                            'Desktop Search',\n"
- "                            'Erasable Paper Printing Systems',\n"
- "                            'BYOD'],\n"
- " 'Manufacturing': ['Inkjet Manufacturing/3D Printing',\n"
- "                   'Carbon Nanotubes',\n"
- "                   '3D Bioprinting',\n"
- "                   'Consumer 3D Printing',\n"
- "                   'Nanotube Electronics',\n"
- "                   '4D Printing',\n"
- "                   'Biotech-Artificial Tissue',\n"
- "                   'Nanoscale 3D Printing'],\n"
- " 'Methodology': ['Object-oriented Programming',\n"
- "                 'Imaging',\n"
- "                 'Workflow',\n"
- "                 'Knowledge Management',\n"
- "                 'WS-Enabled Business Models',\n"
- "                 'Unified Communications',\n"
- "                 'Model-driven Architectures',\n"
- "                 'Business Process Platforms',\n"
- "                 'Folksonomies',\n"
- "                 'Event Driven Architecture',\n"
- "                 'Idea Management',\n"
- "                 'Expertise Location & Management',\n"
- "                 'Behavioral Economics',\n"
- "                 'Context Delivery Services',\n"
- "                 'Consumerization',\n"
- "                 'Group Buying',\n"
- "                 'Gamification',\n"
- "                 'Crowdsourcing',\n"
- "                 'Neurobusiness',\n"
- "                 'Software Defined Anything',\n"
- "                 'Digital Dexterity',\n"
- "                 'Citizen Data Science',\n"
- "                 'Ent Taxonomy/Ontology Mgt',\n"
- "                 'Augmented Data Discovery',\n"
- "                 'Digital Twins',\n"
- "                 'Serverless PaaS',\n"
- "                 'Augmented Intelligence',\n"
- "                 'Decentralized Autonomous Org',\n"
- "                 'Digital Ops'],\n"
- " 'Mobile Technology': ['Wireless Communications',\n"
- "                       'Smartphones/PDA Phones',\n"
- "                       'Location Aware Technology',\n"
- "                       'Tablet PCs',\n"
- "                       'Location-Aware Apps',\n"
- "                       'ebook readers',\n"
- "                       'Media Tablets'],\n"
- " 'Networking Technology': ['Information Superhighway',\n"
- "                           'Internet Terminals',\n"
- "                           'Intranets',\n"
- "                           'Cable Modems',\n"
- "                           'Network Computers',\n"
- "                           'Extranets',\n"
- "                           'xDSL/Cable Modems',\n"
- "                           'Jini',\n"
- "                           'Peer to Peer',\n"
- "                           'VPNs',\n"
- "                           'Bluetooth Networking',\n"
- "                           '4G Networks',\n"
- "                           'IP v6',\n"
- "                           'Broadband over Power Lines',\n"
- "                           '5G Networks',\n"
- "                           'Low-Earth-Orbit Satellite Systems'],\n"
- " 'Physical Actuation': ['MEMS',\n"
- "                        'Mobile Robots/Smart Robots',\n"
- "                        'Autonomous Mobile Robots'],\n"
- " 'Platforms': ['Interactive TV',\n"
- "               'Java',\n"
- "               'DVD',\n"
- "               'Java - the Platform',\n"
- "               'Streaming Media over Web',\n"
- "               'On-line Communities',\n"
- "               'Desktop Linux for Business',\n"
- "               'Virtual Worlds/Environments',\n"
- "               'IP Video/Internet Video',\n"
- "               'Internet TV',\n"
- "               'Internet of Things ',\n"
- "               'Social TV',\n"
- "               'Connected Home',\n"
- "               'Smart Workspace',\n"
- "               'IOT Platforms',\n"
- "               'AR Cloud'],\n"
- " 'Sensing/Tracking': ['E-Tags/Passive RFID',\n"
- "                      'Mesh Networks - Sensors/WA',\n"
- "                      'Smart Dust',\n"
- "                      'RFID (case/pallet)',\n"
- "                      'RFID (Item)',\n"
- "                      'Home Health Monitoring',\n"
- "                      'Terahertz Waves',\n"
- "                      '3D Scanners',\n"
- "                      'Mobile Health Monitoring',\n"
- "                      'Biochips',\n"
- "                      'Bioacoustic Sensing',\n"
- "                      '3D Sensing Cameras'],\n"
- " 'Software Architecture': ['Emergent Computation',\n"
- "                           'Application Sharing',\n"
- "                           'Service Oriented Architecture',\n"
- "                           'Business Rule Engines',\n"
- "                           'BPM Suites',\n"
- "                           'Corporate Semantic Web',\n"
- "                           'Social Computing Platforms',\n"
- "                           'Extreme Transaction Processing',\n"
- "                           'In Memory DBMS',\n"
- "                           'Complex-Event Processing',\n"
- "                           'Synthetic Data'],\n"
- " 'Vehicle Technology': ['Autonomous Vehicles',\n"
- "                        'Consumer Telematics',\n"
- "                        'Autonomous Field Vehicles',\n"
- "                        'Commercial UAVs (Drones)',\n"
- "                        'Autonomous Driving Level 4',\n"
- "                        'Autonomous Driving Level 5',\n"
- "                        'Flying Autonomous Vehicle',\n"
- "                        'Light Cargo Delivery Drones'],\n"
- " 'Web Technology': ['World Wide Web',\n"
- "                    'Netcasting/Push Technology',\n"
- "                    'Intranet Publishing',\n"
- "                    'XML',\n"
- "                    '3D Web',\n"
- "                    'Web Services',\n"
- "                    'Semantic Web',\n"
- "                    'RSS (Really Simple Syndication)',\n"
- "                    'Wikis',\n"
- "                    'AJAX',\n"
- "                    'Web 2.0',\n"
- "                    'Mashups',\n"
- "                    'RSS Enterprise',\n"
- "                    'Offline AJAX',\n"
- "                    'Web Platforms',\n"
- "                    'Service Oriented Business Apps',\n"
- "                    'Activity streams',\n"
- "                    'QR/Color Code',\n"
- "                    'HTML5',\n"
- "                    'Decentralized Web'],\n"
- " 'Wireless Technology': ['Bluetooth',\n"
- "                         'WiFi (802.11a)',\n"
- "                         'Bluetooth Cable Replacement',\n"
- "                         '802.11g',\n"
- "                         'Ultrawideband/WiMedia',\n"
- "                         '802.15.4/Zigby',\n"
- "                         '802.16 WiMAX',\n"
- "                         'NFC',\n"
- "                         '802.11ax']}")
+{'Analytics': ['Audio Mining/Speech Analytics',
+               'Info Extraction/Text Mining',
+               'Social Network Analysis',
+               'Prediction Markets',
+               'Content Analytics',
+               'Predictive Analytics',
+               'Social Analytics',
+               'Big Data',
+               'Video Analytics for Customer Serv.',
+               'In-Memory Analytics',
+               'Prescriptive Analytics',
+               'Personal Analytics',
+               'Data Science',
+               'Advanced Self-Service Analytics',
+               'Data Broker PaaS',
+               'Graph Analytics',
+               'Edge Analytics'],
+ 'Artificial Intelligence': ['Knowledge-based Systems',
+                             'Networked Collective Intelligence',
+                             'Image/Content Recognition',
+                             'Machine Learning',
+                             'Cognitive Expert Advisors',
+                             'General AI',
+                             'Cognitive Computing',
+                             'Deep Neural Nets (Deep Learning)',
+                             'Artificial General Intelligence',
+                             'Deep Neural Network ASICs',
+                             'AI Paas',
+                             'Edge AI',
+                             'Explainable AI',
+                             'Emotion AI',
+                             'Transfer Learning',
+                             'Adaptive Machine Learning',
+                             'Generative Adversarial Networks'],
+ 'Communications': ['Video Conferencing',
+                    'Desktop Videoconferencing',
+                    'Desktop Computer-Telephony Integration',
+                    'Voice over IP',
+                    'Enterprise Chat',
+                    'MMS (multimedia text)',
+                    'Instant Messaging',
+                    'Corporate Blogging',
+                    'P2P VoIP',
+                    'Podcasting',
+                    'Video Telepresence',
+                    'Microblogging',
+                    'Consumer Generated Media'],
+ 'Computer Architecture': ['Grid Computing/Public MPP Clusters',
+                           'Ubiquitous Computing',
+                           'Quantum Computing',
+                           'Nanocomputing/Molecular Transistors',
+                           'Holographic storage',
+                           'Internal MPP Grids',
+                           'DNA Logic',
+                           'Tera-architectures',
+                           'Solid State Drives',
+                           'Cloud Computing',
+                           'Surface Computers',
+                           'Private Cloud Computing',
+                           'Machine-Machine Comm. Serv.',
+                           'Hybrid Cloud Computing',
+                           'Micro Data Centers',
+                           'Neuromorphic Hardware',
+                           'Edge Computing',
+                           'Self Healing System Technology',
+                           'Next-Generation Memory'],
+ 'Cyber Security': ['Smartcards',
+                    'Biometric Authentication',
+                    'Digital Signatures/PKI',
+                    'Identity Services (Public)',
+                    'Trusted Computing Platforms',
+                    'Truth Verification',
+                    'Biometric Identity Docs',
+                    'Digital Security',
+                    'Software Defined Security',
+                    'Blockchain',
+                    'Blockchain for Data Security'],
+ 'Display Technology': ['Electronic Ink/Digital Paper',
+                        'Head-Mounted Displays',
+                        'OLED/Light Emitting Polymers',
+                        '3D Flat Panel Displays',
+                        'Volumetric & Holographic Displays'],
+ 'Energy Technology': ['Micro Fuel Cells',
+                       'Green IT',
+                       'Wireless Power',
+                       'Silicon Anode Batteries'],
+ 'Financial Technology': ['Micro/E-Payments',
+                          'B2C E-Commerce',
+                          'B2B E-Markets',
+                          'XBRL',
+                          'Mobile App Stores',
+                          'Application Stores',
+                          'Cryptocurrencies',
+                          'Cryptocurrency Exchanges'],
+ 'Human-Computer Interface': ['Speech Recognition (Cloud)',
+                              'Handwriting Recognition',
+                              'Virtual Reality',
+                              'Intelligent Agents',
+                              'VRML/Avatars',
+                              'Wearable Computers',
+                              'Synthetic Characters/Chatbots',
+                              'Voice Portals',
+                              'Text-to-Speech/Speech Synthesis',
+                              'Speech Recognition (Desktop)',
+                              'NLP Query/Interfaces',
+                              'Speech Recognition (Mobile)',
+                              'Augmented Reality',
+                              'Computer/Brain Interfaces',
+                              'Speech-to-Speech Translation',
+                              'Gesture Recognition/Control',
+                              'Portable Personality',
+                              'Ambient/Glanceable Displays',
+                              'Virtual Assistants',
+                              'Video Search',
+                              'Human Augmentation',
+                              'Tangible User Interfaces',
+                              'Wearable UI',
+                              'Affective Computing',
+                              'Electrovibration',
+                              'Smart Advisors',
+                              'People-Literate Technology',
+                              'Smart Data Discovery',
+                              'Conversational User Interfaces',
+                              'Mixed Reality',
+                              'Conversational AI Platform',
+                              'Knowledge Graphs',
+                              'Personification',
+                              'Immersive Workspaces'],
+ 'Information Technology': ['Database Mining',
+                            'Enterprise Portals',
+                            'Text Mining',
+                            'Hosted Virtual Desktops',
+                            'ASP/SaaS',
+                            'WAP/Wireless Web',
+                            'Desktop Search',
+                            'Erasable Paper Printing Systems',
+                            'BYOD'],
+ 'Manufacturing': ['Inkjet Manufacturing/3D Printing',
+                   'Carbon Nanotubes',
+                   '3D Bioprinting',
+                   'Consumer 3D Printing',
+                   'Nanotube Electronics',
+                   '4D Printing',
+                   'Biotech-Artificial Tissue',
+                   'Nanoscale 3D Printing'],
+ 'Methodology': ['Object-oriented Programming',
+                 'Imaging',
+                 'Workflow',
+                 'Knowledge Management',
+                 'WS-Enabled Business Models',
+                 'Unified Communications',
+                 'Model-driven Architectures',
+                 'Business Process Platforms',
+                 'Folksonomies',
+                 'Event Driven Architecture',
+                 'Idea Management',
+                 'Expertise Location & Management',
+                 'Behavioral Economics',
+                 'Context Delivery Services',
+                 'Consumerization',
+                 'Group Buying',
+                 'Gamification',
+                 'Crowdsourcing',
+                 'Neurobusiness',
+                 'Software Defined Anything',
+                 'Digital Dexterity',
+                 'Citizen Data Science',
+                 'Ent Taxonomy/Ontology Mgt',
+                 'Augmented Data Discovery',
+                 'Digital Twins',
+                 'Serverless PaaS',
+                 'Augmented Intelligence',
+                 'Decentralized Autonomous Org',
+                 'Digital Ops'],
+ 'Mobile Technology': ['Wireless Communications',
+                       'Smartphones/PDA Phones',
+                       'Location Aware Technology',
+                       'Tablet PCs',
+                       'Location-Aware Apps',
+                       'ebook readers',
+                       'Media Tablets'],
+ 'Networking Technology': ['Information Superhighway',
+                           'Internet Terminals',
+                           'Intranets',
+                           'Cable Modems',
+                           'Network Computers',
+                           'Extranets',
+                           'xDSL/Cable Modems',
+                           'Jini',
+                           'Peer to Peer',
+                           'VPNs',
+                           'Bluetooth Networking',
+                           '4G Networks',
+                           'IP v6',
+                           'Broadband over Power Lines',
+                           '5G Networks',
+                           'Low-Earth-Orbit Satellite Systems'],
+ 'Physical Actuation': ['MEMS',
+                        'Mobile Robots/Smart Robots',
+                        'Autonomous Mobile Robots'],
+ 'Platforms': ['Interactive TV',
+               'Java',
+               'DVD',
+               'Java - the Platform',
+               'Streaming Media over Web',
+               'On-line Communities',
+               'Desktop Linux for Business',
+               'Virtual Worlds/Environments',
+               'IP Video/Internet Video',
+               'Internet TV',
+               'Internet of Things ',
+               'Social TV',
+               'Connected Home',
+               'Smart Workspace',
+               'IOT Platforms',
+               'AR Cloud'],
+ 'Sensing/Tracking': ['E-Tags/Passive RFID',
+                      'Mesh Networks - Sensors/WA',
+                      'Smart Dust',
+                      'RFID (case/pallet)',
+                      'RFID (Item)',
+                      'Home Health Monitoring',
+                      'Terahertz Waves',
+                      '3D Scanners',
+                      'Mobile Health Monitoring',
+                      'Biochips',
+                      'Bioacoustic Sensing',
+                      '3D Sensing Cameras'],
+ 'Software Architecture': ['Emergent Computation',
+                           'Application Sharing',
+                           'Service Oriented Architecture',
+                           'Business Rule Engines',
+                           'BPM Suites',
+                           'Corporate Semantic Web',
+                           'Social Computing Platforms',
+                           'Extreme Transaction Processing',
+                           'In Memory DBMS',
+                           'Complex-Event Processing',
+                           'Synthetic Data'],
+ 'Vehicle Technology': ['Autonomous Vehicles',
+                        'Consumer Telematics',
+                        'Autonomous Field Vehicles',
+                        'Commercial UAVs (Drones)',
+                        'Autonomous Driving Level 4',
+                        'Autonomous Driving Level 5',
+                        'Flying Autonomous Vehicle',
+                        'Light Cargo Delivery Drones'],
+ 'Web Technology': ['World Wide Web',
+                    'Netcasting/Push Technology',
+                    'Intranet Publishing',
+                    'XML',
+                    '3D Web',
+                    'Web Services',
+                    'Semantic Web',
+                    'RSS (Really Simple Syndication)',
+                    'Wikis',
+                    'AJAX',
+                    'Web 2.0',
+                    'Mashups',
+                    'RSS Enterprise',
+                    'Offline AJAX',
+                    'Web Platforms',
+                    'Service Oriented Business Apps',
+                    'Activity streams',
+                    'QR/Color Code',
+                    'HTML5',
+                    'Decentralized Web'],
+ 'Wireless Technology': ['Bluetooth',
+                         'WiFi (802.11a)',
+                         'Bluetooth Cable Replacement',
+                         '802.11g',
+                         'Ultrawideband/WiMedia',
+                         '802.15.4/Zigby',
+                         '802.16 WiMAX',
+                         'NFC',
+                         '802.11ax']}

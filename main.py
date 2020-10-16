@@ -33,5 +33,5 @@ import pprint
 output_s = pprint.pformat(db)
 
 with open('output.txt', 'wt') as out:
-    #pprint.pprint(db, stream=out)
-    pprint.pprint(output_s, stream=out)
+    pprint.pprint(db, stream=out)
+    #pprint.pprint(output_s, stream=out)
